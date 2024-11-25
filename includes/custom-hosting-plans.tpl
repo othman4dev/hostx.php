@@ -6,10 +6,10 @@
         <h4 class="se-title-2">Get More Power With Our Web Hosting Products</h4>
       </div>
     <div style="backgournd-color: ;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px">
-      <span style=" background-color: #0091dc; padding-inline: 15px; font-size: 20px; padding: 5px; padding-inline: 20px; border-radius: 3px;cursor:pointer;">
+      <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;">
           VPS
       </span>
-      <span style=" background-color: #141526; padding-inline: 15px; font-size: 20px; padding: 5px; padding-inline: 20px; border-radius: 3px;cursor:pointer;">
+      <span style=" background-color: #141526; font-size: 25px; padding: 5px; padding-inline: 20px; border-radius: 3px;cursor:pointer;">
           RDP
       </span>
     </div>
