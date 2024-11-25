@@ -6,9 +6,12 @@
         <h4 class="se-title-2">Get More Power With Our Web Hosting Products</h4>
       </div>
       <!-- plans -->
-      <div class="plans mb-xl-4 mb-2">
+      <div class="plans mb-xl-4 mb-2" style="background-color:transparent; border:none;">
         <!-- row -->
-        <div class="row mx-xl-0">
+        <div class="row mx-xl-0" style="
+    display: flex;
+    justify-content: space-evenly;
+">
           <!-- col -->
           <div class="col-xl-3 col-md-6 mb-xl-0 mb-2 px-xl-0">
             <!-- plan -->
