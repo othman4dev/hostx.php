@@ -16,11 +16,65 @@
       <!-- plans -->
       <div class="plans mb-xl-4 mb-2" style="background-color:transparent; border:none;">
         <!-- row -->
-        <div class="row mx-xl-0" style="
-    display: flex;
-    justify-content: space-evenly;
-">
+        <div class="row mx-xl-0" style=" display: flex; justify-content: space-evenly;">
           <!-- col -->
+          <div class="col-xl-3 col-md-6 mb-xl-0 mb-2 px-xl-0">
+            <!-- plan -->
+            <div class="plan">
+              <!-- plan-head -->
+              <div class="plan-head">
+                <!-- plan-name -->
+                <h3 class="plan-name">Basic Plan</h3>
+                <!-- plan-para -->
+                <p class="plan-para">When you need just one site.</p>
+              </div>
+              <!-- plan-price -->
+              <div class="plan-price">
+                <!-- price -->
+                <h4 class="price">$2.45</h4>
+                <!-- price-comment -->
+                <p class="price-comment">Normally $9.99 - 12/mo term</p>
+              </div>
+              <!-- actions -->
+              <div class="actions">
+                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Basic</a>
+              </div>
+              <!-- group -->
+              <div class="group">
+                <!-- title-4 -->
+                <h4 class="title-4">Top Features</h4>
+                <!-- list -->
+                <ul class="list list-unstyled">
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">1 Website <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">50 GB SSD Storage <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Custom Themes <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">24/7 Customer Support <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                </ul>
+              </div>
+              <!-- group -->
+              <div class="group">
+                <!-- title-4 -->
+                <h4 class="title-4">Website Builder Available</h4>
+                <!-- list -->
+                <ul class="list list-unstyled">
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">WordPress Integration</li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Drag and Drop Functionality</li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">AI-Driven Templates</li>
+                </ul>
+              </div>
+              <!-- group -->
+              <div class="group">
+                <!-- title-4 -->
+                <h4 class="title-4">Also Includes</h4>
+                <!-- list -->
+                <ul class="list list-unstyled">
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Free Domain - 1 year <span class="float-box" data-text="One free with purchase of a new 12-, 24- or 36-month plan. Plus ICANN fee of 2.84 USD per domain name per year. You must add the domain name into your cart before purchase, and you must select a domain term length equal to or less than the term length of your plan to qualify for the free domain offer. If you purchase a domain name for a term longer than the term of the plan, you will be charged for the additional registration term at the then-current rate. Cannot be used in conjunction with any other offer, sale, discount or promotion. Free domain offer applies only to the initial purchase term. After the initial purchase term, domains purchased through this offer will renew at the then-current renewal price."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Free CDN Included <span class="float-box" data-text="Get faster page loads and better visitor experience with nearby, state-of-the-art data centers in North America, Europe or Asia-Pacific."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Free SSL Certificate <span class="float-box" data-text="Linking your site to your domain name has never been easier with GoDaddy registered domain."></span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
           <div class="col-xl-3 col-md-6 mb-xl-0 mb-2 px-xl-0">
             <!-- plan -->
             <div class="plan popular-plan">
@@ -141,7 +195,7 @@
             </div>
           </div>
           <!-- col -->
-          <div class="col-xl-3 col-md-6 mb-xl-0 mb-2 px-xl-0" style="display:none;">
+          <div class="col-xl-3 col-md-6 mb-xl-0 mb-2 px-xl-0">
             <!-- plan -->
             <div class="plan">
               <!-- plan-head -->
