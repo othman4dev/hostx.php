@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440px" height="148px" viewBox="0 0 440 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <defs>
+        <radialGradient cx="14.9594208%" cy="47.774035%" fx="14.9594208%" fy="47.774035%" r="131.602965%" gradientTransform="translate(0.1496, 0.4777), scale(0.6884, 1), rotate(2.1066), scale(1, 0.6476), translate(-0.1496, -0.4777)" id="radialGradient-1">
+            <stop stop-color="#EF43FD" offset="0%"></stop>
+            <stop stop-color="#6451F3" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-34.8%" y="-50.5%" width="169.6%" height="201.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="32" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bb" stroke-opacity="0" stroke="#FFFFFF" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="440" height="148"></rect>
+        <g id="Glow" transform="translate(82, 87)" fill="url(#radialGradient-1)" fill-rule="nonzero" opacity="0.745665644">
+            <path d="M0,95 C0,147.467051 33.7007479,190 75.2727273,190 L200.727273,190 C242.299252,190 276,147.467051 276,95 C276,42.5329488 242.299252,0 200.727273,0 L75.2727273,0 C33.7007479,0 0,42.5329488 0,95 Z" id="glow" filter="url(#filter-2)"></path>
+        </g>
+    </g>
+</svg>
