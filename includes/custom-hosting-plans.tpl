@@ -5,27 +5,14 @@
         <h3 class="se-title-1">What about our plans</h3>
         <h4 class="se-title-2">Get More Power With Our Web Hosting Products</h4>
       </div>
-      <div style="backgournd-color: ;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;">
-    <span style="
-    background-color: #0091dc;
-    padding-inline: 15px;
-    font-size: 20px;
-    padding: 5px;
-    padding-inline: 20px;
-    border-radius: 3px;
-">
-        VPS
-    </span>
-    <span style="
-    background-color: #141526;
-    padding-inline: 15px;
-    font-size: 20px;
-    padding: 5px;
-    padding-inline: 20px;
-    border-radius: 3px;>
-        RDP
-    </span>
-</div>
+    <div style="backgournd-color: ;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;">
+      <span style=" background-color: #0091dc; padding-inline: 15px; font-size: 20px; padding: 5px; padding-inline: 20px; border-radius: 3px;">
+          VPS
+      </span>
+      <span style=" background-color: #141526; padding-inline: 15px; font-size: 20px; padding: 5px; padding-inline: 20px; border-radius: 3px;">
+          RDP
+      </span>
+    </div>
       <!-- plans -->
       <div class="plans mb-xl-4 mb-2" style="background-color:transparent; border:none;">
         <!-- row -->
