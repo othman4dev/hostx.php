@@ -130,7 +130,7 @@
             </div>
           </div>
           <!-- col -->
-          <div class="col-xl-3 col-md-6 mb-xl-0 mb-2 px-xl-0">
+          <div class="col-xl-3 col-md-6 mb-xl-0 mb-2 px-xl-0" style="display:none;">
             <!-- plan -->
             <div class="plan">
               <!-- plan-head -->
