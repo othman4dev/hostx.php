@@ -2,8 +2,8 @@
     <div class="container" id="vps-container">
       <!-- se-head -->
       <div class="se-head">
-        <h3 class="se-title-1">What about our plans</h3>
-        <h4 class="se-title-2">Get More Power With Our Web Hosting Products</h4>
+        <h3 class="se-title-1">Discover the Perfect VPS/RDP Hosting Plan for You!</h3>
+        <h4 class="se-title-2">VPS/RDP Hosting in Amsterdam</h4>
       </div>
       <div style="backgournd-color: ;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px">
         <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:7px">
@@ -28,7 +28,7 @@
                 <!-- plan-name -->
                 <h3 class="plan-name">Starter Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">When you need the minimum.</p>
+                <p class="plan-para">Perfect for minimal needs and getting started.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
@@ -86,7 +86,7 @@
                 <!-- plan-name -->
                 <h3 class="plan-name">Standard Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">For those who need the average.</p>
+                <p class="plan-para">Ideal for everyday use with balanced performance.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
@@ -161,7 +161,7 @@
                 <!-- plan-name -->
                 <h3 class="plan-name">Premium Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">When you just need more.</p>
+                <p class="plan-para">Designed for those who need more power and flexibility.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
@@ -238,7 +238,7 @@
                 <!-- plan-name -->
                 <h3 class="plan-name">Ultimate Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">When you are looking for the best.</p>
+                <p class="plan-para">The top choice for high-performance, premium hosting.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
@@ -323,8 +323,8 @@
     <div class="container" id="rdp-container" style="display:none;">
       <!-- se-head -->
       <div class="se-head">
-        <h3 class="se-title-1">What about our plans</h3>
-        <h4 class="se-title-2">Get More Power With Our Web Hosting Products</h4>
+        <h3 class="se-title-1">Discover the Perfect VPS/RDP Hosting Plan for You!</h3>
+        <h4 class="se-title-2">VPS/RDP Hosting in Amsterdam</h4>
       </div>
       <div style="backgournd-color: #141526;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px;">
         <span style=" background-color: ; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:7px" onclick="document.getElementById('rdp-container').style.display = 'none';document.getElementById('vps-container').style.display = 'block';">
