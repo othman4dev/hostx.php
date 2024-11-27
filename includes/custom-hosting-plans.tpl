@@ -26,7 +26,7 @@
                 <!-- plan-name -->
                 <h3 class="plan-name">Starter Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">When you need just one site.</p>
+                <p class="plan-para">When you need the minimum.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
@@ -37,7 +37,7 @@
               </div>
               <!-- actions -->
               <div class="actions">
-                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Basic</a>
+                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Starter</a>
               </div>
               <!-- group -->
               <div class="group">
@@ -45,13 +45,14 @@
                 <h4 class="title-4">Top Features</h4>
                 <!-- list -->
                 <ul class="list list-unstyled">
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">2 Cores <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">12 GB RAM DDR4<span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">70 GB Nvme SSD<span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">10 GB/s <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">2 Cores <span class="float-box" data-text="Cores are the processing units within a CPU. Having 2 cores means the CPU can handle multiple tasks simultaneously, improving performance and efficiency for your applications and services."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">12 GB RAM DDR4<span class="float-box" data-text="12 GB RAM DDR4 provides fast and efficient memory for your server, allowing it to handle multiple tasks and applications simultaneously with improved performance."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">70 GB nvme SSD<span class="float-box" data-text="70 GB NVMe SSD provides faster data access and improved performance for your server, enhancing speed and reliability."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">10 GB/s traffic<span class="float-box" data-text="10 GB/s network speed provides extremely fast data transfer rates, ensuring quick loading times and efficient handling of high traffic volumes for your server."></span></li>
                 </ul>
               </div>
               <!-- group -->
+              <!--
               <div class="group">
                 <!-- title-4 -->
                 <h4 class="title-4">Website Builder Available</h4>
@@ -62,7 +63,9 @@
                   <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">AI-Driven Templates</li>
                 </ul>
               </div>
+              -->
               <!-- group -->
+              <!--
               <div class="group">
                 <!-- title-4 -->
                 <h4 class="title-4">Also Includes</h4>
@@ -73,6 +76,7 @@
                   <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Free SSL Certificate <span class="float-box" data-text="Linking your site to your domain name has never been easier with GoDaddy registered domain."></span></li>
                 </ul>
               </div>
+              -->
             </div>
           </div>
           <div class="col-xl-3 col-md-6 mb-xl-0 mb-2 px-xl-0">
@@ -81,20 +85,20 @@
               <!-- plan-head -->
               <div class="plan-head">
                 <!-- plan-name -->
-                <h3 class="plan-name">Advanced Plan</h3>
+                <h3 class="plan-name">Standard Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">For those running multiple sites.</p>
+                <p class="plan-para">For those who need the average.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
-                <h4 class="price">$5.45</h4>
+                <h4 class="price">€20,00</h4>
                 <!-- price-comment -->
-                <p class="price-comment">Normally $13.99 - 12/mo term</p>
+                <p class="price-comment" style="text-decoration: line-through; color: #f00;">29,99</p>
               </div>
               <!-- actions -->
               <div class="actions">
-                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Advanced</a>
+                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Standard</a>
               </div>
               <!-- group -->
               <div class="group">
@@ -102,10 +106,26 @@
                 <h4 class="title-4">Top Features</h4>
                 <!-- list -->
                 <ul class="list list-unstyled">
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Unlimited Websites <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Unlimited SSD Storage <span class="float-box" data-text="We don't limit the amount of storage and bandwidth your site can use as long as it complies with our Hosting Agreement. Should your website bandwidth or storage usage present a risk to the stability, performance or uptime of our servers, we will notify you via email and you may be required to upgrade, or we may restrict the resources your website is using. It’s very rare that a website violates our Hosting Agreement and is typically only seen in sites that use hosting for file sharing or storage."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Custom Themes <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">24/7 Customer Support <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    6 Cores 
+                    <span class="float-box" data-text="This plan provides 6 powerful cores, suitable for handling moderate workloads and ensuring smooth performance for most applications."></span>
+                  </li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    25 GB RAM DDR4 
+                    <span class="float-box" data-text="Equipped with 25 GB DDR4 RAM, this plan is designed for stability and faster application processing."></span>
+                  </li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    250 GB NVMe SSD 
+                    <span class="float-box" data-text="Enjoy 250 GB of ultra-fast NVMe SSD storage for faster read/write speeds and seamless data handling."></span>
+                  </li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    10 Gbps Bandwidth 
+                    <span class="float-box" data-text="A blazing-fast 10 Gbps bandwidth to handle high traffic and ensure smooth data transmission."></span>
+                  </li>
                 </ul>
               </div>
               <!-- group -->
