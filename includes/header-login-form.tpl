@@ -26,6 +26,8 @@
         <div class="col-xl-5 d-xl-block d-none">
           <!-- form-container -->
           <div class="form-container" id="form-container">
+            <!-- form-title -->
+            <h2 class="form-title mb-4">Get 5% Off Your First Month - Start Saving Today!</h2>
             <!-- header-form -->
             <form method="post" action="{routePath('login-validate')}" role="form" class="header-form ml-auto" id="header-form">
               <!-- inputs -->
