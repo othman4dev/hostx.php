@@ -24,16 +24,16 @@
               <!-- plan-head -->
               <div class="plan-head">
                 <!-- plan-name -->
-                <h3 class="plan-name">Basic Plan</h3>
+                <h3 class="plan-name">Starter Plan</h3>
                 <!-- plan-para -->
                 <p class="plan-para">When you need just one site.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
-                <h4 class="price">$2.45</h4>
+                <h4 class="price">€7,50</h4>
                 <!-- price-comment -->
-                <p class="price-comment">Normally $9.99 - 12/mo term</p>
+                <p class="price-comment" style="text-decoration:stroke;color:#f00">$9.99</p>
               </div>
               <!-- actions -->
               <div class="actions">
@@ -45,10 +45,10 @@
                 <h4 class="title-4">Top Features</h4>
                 <!-- list -->
                 <ul class="list list-unstyled">
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">1 Website <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">50 GB SSD Storage <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Custom Themes <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">24/7 Customer Support <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">2 Cores <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">12 GB RAM DDR4<span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">70 GB Nvme SSD<span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">10 GB/s <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
                 </ul>
               </div>
               <!-- group -->
@@ -285,11 +285,11 @@
         <h3 class="se-title-1">What about our plans</h3>
         <h4 class="se-title-2">Get More Power With Our Web Hosting Products</h4>
       </div>
-      <div style="backgournd-color: ;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px">
-        <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="switchProduct('VPS')">
+      <div style="backgournd-color: #141526;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px">
+        <span style=" background-color: ; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="switchProduct('VPS')">
           VPS
         </span>
-        <span style=" background-color: #141526; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="switchProduct('RDP')">
+        <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="switchProduct('RDP')">
           RDP
         </span>
       </div>
