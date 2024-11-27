@@ -374,7 +374,7 @@
                 <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Basic</a>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" >
                 <!-- title-4 -->
                 <h4 class="title-4">Top Features</h4>
                 <!-- list -->
@@ -386,7 +386,7 @@
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Website Builder Available</h4>
                 <!-- list -->
@@ -397,7 +397,7 @@
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Also Includes</h4>
                 <!-- list -->
@@ -443,7 +443,7 @@
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Website Builder Available</h4>
                 <!-- list -->
@@ -454,7 +454,7 @@
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Also Includes</h4>
                 <!-- list -->
@@ -502,7 +502,7 @@
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Website Builder Available</h4>
                 <!-- list -->
@@ -513,7 +513,7 @@
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Also Includes</h4>
                 <!-- list -->
@@ -564,7 +564,7 @@
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Website Builder Available</h4>
                 <!-- list -->
@@ -575,7 +575,7 @@
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Also Includes</h4>
                 <!-- list -->
