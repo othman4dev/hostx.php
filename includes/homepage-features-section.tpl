@@ -33,7 +33,7 @@
         <div class="col-lg-3 col-6">
           <!-- box -->
           <div class="box">
-            <i class="bi bi-headset" style="font-size:30px"></i>
+            <i class="bi bi-headset" style="font-size:50px"></i>
             <h2 class="box-title mb-0">12/7 Customer <br>Support</h2>
           </div>
         </div>
