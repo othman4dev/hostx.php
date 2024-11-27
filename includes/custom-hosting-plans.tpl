@@ -47,8 +47,8 @@
                 <ul class="list list-unstyled">
                     <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">2 Cores <span class="float-box" data-text="Cores are the processing units within a CPU. Having 2 cores means the CPU can handle multiple tasks simultaneously, improving performance and efficiency for your applications and services."></span></li>
                     <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">12 GB RAM DDR4<span class="float-box" data-text="12 GB RAM DDR4 provides fast and efficient memory for your server, allowing it to handle multiple tasks and applications simultaneously with improved performance."></span></li>
-                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">70 GB nvme SSD<span class="float-box" data-text="70 GB NVMe SSD provides faster data access and improved performance for your server, enhancing speed and reliability."></span></li>
-                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">10 GB/s traffic<span class="float-box" data-text="10 GB/s network speed provides extremely fast data transfer rates, ensuring quick loading times and efficient handling of high traffic volumes for your server."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">70 GB NVMe SSD<span class="float-box" data-text="70 GB NVMe SSD provides faster data access and improved performance for your server, enhancing speed and reliability."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">10 Gbps Bandwidth<span class="float-box" data-text="10 GB/s network speed provides extremely fast data transfer rates, ensuring quick loading times and efficient handling of high traffic volumes for your server."></span></li>
                 </ul>
               </div>
               <!-- group -->
@@ -274,11 +274,6 @@
                     <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
                     10 Gbps Bandwidth 
                     <span class="float-box" data-text="A blazing-fast 10 Gbps connection ensures stable and fast data transmission, even under heavy traffic."></span>
-                  </li>
-                  <li>
-                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
-                    Optimized CPU Resources 
-                    <span class="float-box" data-text="Experience maximized efficiency with optimized CPU allocation, perfect for resource-intensive tasks."></span>
                   </li>
                 </ul>
 
