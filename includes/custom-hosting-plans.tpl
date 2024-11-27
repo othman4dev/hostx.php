@@ -316,16 +316,6 @@
           <i class="bi bi-cpu" style="color:#0060fe;margin-right:7px"></i>
           <span class="text">Intel Xeon E5-2673 v4 @ 2.30/3.5 GHz</span>
         </div>
-        <!-- line -->
-        <div class="line d-flex align-items-center justify-content-start" style="display:none;">
-          <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle-2.svg" class="icon img-fluid" alt="Check">
-          <span class="text">Free white-glove migrations</span>
-        </div>
-        <!-- line -->
-        <div class="line d-flex align-items-center justify-content-start" style="display:none;">
-          <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle-2.svg" class="icon img-fluid" alt="Check">
-          <span class="text">Staging environments, and more.</span>
-        </div>
       </div>
     </div>
     <div class="container" id="rdp-container" style="display:none;">
@@ -582,7 +572,7 @@
                   <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Free Domain Privacy</li>
                   <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Free Automated Backup</li>
                   <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Free Dedicated IP</li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Unlimited SSD Storage <span class="float-box" data-text="To add additional IPs, go to your My Hosting dashboard, locate IP Addresses and click Request, check the terms of agreement then click Submit Request. You may add additional IP address per request."></span></li>
+                  
                 </ul>
               </div>
             </div>
@@ -593,18 +583,8 @@
       <div class="se-footer d-flex align-items-center justify-content-center flex-wrap">
         <!-- line -->
         <div class="line d-flex align-items-center justify-content-start">
-          <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle-2.svg" class="icon img-fluid" alt="Check">
-          <span class="text">Backups monthly</span>
-        </div>
-        <!-- line -->
-        <div class="line d-flex align-items-center justify-content-start">
-          <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle-2.svg" class="icon img-fluid" alt="Check">
-          <span class="text">Free white-glove migrations</span>
-        </div>
-        <!-- line -->
-        <div class="line d-flex align-items-center justify-content-start">
-          <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle-2.svg" class="icon img-fluid" alt="Check">
-          <span class="text">Staging environments, and more.</span>
+          <i class="bi bi-cpu" style="color:#0060fe;margin-right:7px"></i>
+          <span class="text">Intel Xeon E5-2673 v4 @ 2.30/3.5 GHz</span>
         </div>
       </div>
     </div>
