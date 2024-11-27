@@ -39,7 +39,7 @@
               </div>
               <!-- actions -->
               <div class="actions">
-                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Starter</a>
+                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Order Now</a>
               </div>
               <!-- group -->
               <div class="group">
@@ -97,7 +97,7 @@
               </div>
               <!-- actions -->
               <div class="actions">
-                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Standard</a>
+                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Order Now</a>
               </div>
               <!-- group -->
               <div class="group" >
@@ -172,7 +172,7 @@
               </div>
               <!-- actions -->
               <div class="actions">
-                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Premium</a>
+                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Order Now</a>
               </div>
               <!-- group -->
               <div class="group">
@@ -249,7 +249,7 @@
               </div>
               <!-- actions -->
               <div class="actions">
-                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Ultimate</a>
+                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Order Now</a>
               </div>
               <!-- group -->
               <div class="group">
