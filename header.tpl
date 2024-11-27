@@ -255,11 +255,6 @@
     {* custom-hosting-plans *}
     {include file="$template/includes/custom-hosting-plans.tpl"}
     
-    {* domains-box *}
-    {if $registerdomainenabled || $transferdomainenabled}
-      {include file="$template/includes/domains-box.tpl"}
-    {/if}
-    
 
   {/if}
 
