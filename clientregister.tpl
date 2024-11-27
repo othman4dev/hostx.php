@@ -75,7 +75,7 @@
                     </div>
                 </div>
 
-                <div class="card mb-4" style="display:none;>
+                <div class="card mb-4" style="display:none;">
                     <div class="card-body p-4">
                         <h3 class="card-title">{lang key='orderForm.billingAddress'}</h3>
 
