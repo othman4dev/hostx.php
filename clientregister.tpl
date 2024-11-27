@@ -54,7 +54,7 @@
                                     <input type="text" name="lastname" id="inputLastName" class="field form-control" placeholder="{lang key='orderForm.lastName'}" value="{$clientlastname}" {if !in_array('lastname', $optionalFields)}required{/if}>
                                 </div>
                             </div>
-                            <div class="col-sm-6" style="min-width:100%">
+                            <div class="col-sm-6">
                                 <div class="form-group prepend-icon">
                                     <label for="inputEmail" class="field-icon">
                                         <i class="fas fa-envelope"></i>
