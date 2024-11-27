@@ -33,7 +33,7 @@
                 <!-- price -->
                 <h4 class="price">€7,50</h4>
                 <!-- price-comment -->
-                <p class="price-comment" style="text-decoration:stroke;color:#f00">$9.99</p>
+                <p class="price-comment" style="text-decoration: line-through;color:#f00">$9.99</p>
               </div>
               <!-- actions -->
               <div class="actions">
