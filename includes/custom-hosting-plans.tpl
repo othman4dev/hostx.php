@@ -313,7 +313,7 @@
       <div class="se-footer d-flex align-items-center justify-content-center flex-wrap">
         <!-- line -->
         <div class="line d-flex align-items-center justify-content-start">
-          <i class="bi bi-cpu"></i>
+          <i class="bi bi-cpu" style="color:#0060fe;margin-right:7px"></i>
           <span class="text">Intel Xeon E5-2673 v4 @ 2.30/3.5 GHz</span>
         </div>
         <!-- line -->
@@ -322,7 +322,7 @@
           <span class="text">Free white-glove migrations</span>
         </div>
         <!-- line -->
-        <div class="line d-flex align-items-center justify-content-start" style="display:none">
+        <div class="line d-flex align-items-center justify-content-start" style="display:none;">
           <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle-2.svg" class="icon img-fluid" alt="Check">
           <span class="text">Staging environments, and more.</span>
         </div>
