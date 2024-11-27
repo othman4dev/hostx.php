@@ -62,16 +62,7 @@
                                     <input type="email" name="email" id="inputEmail" class="field form-control" placeholder="{lang key='orderForm.emailAddress'}" value="{$clientemail}">
                                 </div>
                             </div>
-                            <div class="col-sm-6">
-                                <div class="form-group prepend-icon">
-                                    <label for="inputPhone" class="field-icon">
-                                        <i class="fas fa-phone"></i>
-                                    </label>
-                                    <input type="tel" name="phonenumber" id="inputPhone" class="field form-control" placeholder="{lang key='orderForm.phoneNumber'}" value="{$clientphonenumber}">
-                                </div>
-                            </div>
                         </div>
-
                     </div>
                 </div>
 
