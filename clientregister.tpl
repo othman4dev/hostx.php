@@ -62,7 +62,7 @@
                                     <input type="email" name="email" id="inputEmail" class="field form-control" placeholder="{lang key='orderForm.emailAddress'}" value="{$clientemail}">
                                 </div>
                             </div>
-                            <div class="col-sm-6">
+                            <div class="col-sm-6" style="display:none;>
                                 <div class="form-group prepend-icon">
                                     <label for="inputPhone" class="field-icon">
                                         <i class="fas fa-phone"></i>
@@ -75,7 +75,7 @@
                     </div>
                 </div>
 
-                <div class="card mb-4">
+                <div class="card mb-4" style="display:none;>
                     <div class="card-body p-4">
                         <h3 class="card-title">{lang key='orderForm.billingAddress'}</h3>
 
