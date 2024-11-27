@@ -33,7 +33,7 @@
                 <!-- price -->
                 <h4 class="price">€7,50</h4>
                 <!-- price-comment -->
-                <p class="price-comment" style="text-decoration: line-through;color:#f00">$9.99</p>
+                <p class="price-comment">Normally $18.99 - 12/mo term</p>
               </div>
               <!-- actions -->
               <div class="actions">
@@ -90,7 +90,7 @@
                 <!-- price -->
                 <h4 class="price">€20,00</h4>
                 <!-- price-comment -->
-                <p class="price-comment" style="text-decoration: line-through; color: #f00;">29,99</p>
+                <p class="price-comment">Normally $28.99 - 12/mo term</p>
               </div>
               <!-- actions -->
               <div class="actions">
