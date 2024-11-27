@@ -4,7 +4,7 @@
     <!-- se-head -->
     <div class="se-head">
       <h3 class="se-title-1">{lang key="clientHomePanels.ourProducts"}</h3>
-      <!-- <h4 class="se-title-2">{lang key="clientHomePanels.productsText1"}<br>{lang key="clientHomePanels.productsText2"} {lang key="clientHomePanels.productsText3"}</h4> -->
+      <h4 class="se-title-2">{lang key="clientHomePanels.productsText1"}<br>{lang key="clientHomePanels.productsText2"} {lang key="clientHomePanels.productsText3"}</h4>
     </div>
     <!-- row -->
     <div class="row justify-content-center" data-gap-y="30px">
