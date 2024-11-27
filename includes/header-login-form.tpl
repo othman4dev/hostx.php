@@ -6,7 +6,7 @@
         <!-- col -->
         <div class="col-xl-7 text-xl-left text-center">
           <!-- title-1 & para-1 -->
-            <h1 class="title-1 text-uppercase mb-4 mx-xl-0 mx-auto small-font">VPS/RDP Hosting: High performance, Reliability, and Scalability for Your Business!</h1>
+            <h1 class="title-2 text-uppercase mb-4 mx-xl-0 mx-auto">VPS/RDP Hosting: High performance, Reliability, and Scalability for Your Business!</h1>
           <p class="para-1 mb-4 mx-xl-0 mx-auto">Check out the services we offer below. We're determined to provide these services at the best quality - customer satisfaction and convenience are of the utmost importance for us.</p>
           <!-- notify -->
           <div class="notify glassy">
