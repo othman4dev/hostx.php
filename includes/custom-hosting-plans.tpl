@@ -6,10 +6,12 @@
         <h4 class="se-title-2">Get More Power With Our Web Hosting Products</h4>
       </div>
       <div style="backgournd-color: ;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px">
-        <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;">
+        <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:7px">
+          <i class="bi bi-server"></i>
           VPS
         </span>
-        <span style=" background-color: #141526; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="document.getElementById('rdp-container').style.display = 'block';document.getElementById('vps-container').style.display = 'none';">
+        <span style=" background-color: #141526; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:7px" onclick="document.getElementById('rdp-container').style.display = 'block';document.getElementById('vps-container').style.display = 'none';">
+          <i class="bi bi-pc"></i>
           RDP
         </span>
       </div>
@@ -324,11 +326,13 @@
         <h3 class="se-title-1">What about our plans</h3>
         <h4 class="se-title-2">Get More Power With Our Web Hosting Products</h4>
       </div>
-      <div style="backgournd-color: #141526;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px">
-        <span style=" background-color: ; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="document.getElementById('rdp-container').style.display = 'none';document.getElementById('vps-container').style.display = 'block';">
+      <div style="backgournd-color: #141526;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px;">
+        <span style=" background-color: ; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:7px" onclick="document.getElementById('rdp-container').style.display = 'none';document.getElementById('vps-container').style.display = 'block';">
+        <i class="bi bi-server"></i>
           VPS
         </span>
-        <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;">
+        <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:7px">
+        <i class="bi bi-pc"></i>
           RDP
         </span>
       </div>
