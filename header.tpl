@@ -259,10 +259,7 @@
     {if $registerdomainenabled || $transferdomainenabled}
       {include file="$template/includes/domains-box.tpl"}
     {/if}
-    {* quick-actions-1 *}
-    {include file="$template/includes/quick-actions-1.tpl"}
-    {* quick-actions-2 *}
-    {include file="$template/includes/quick-actions-2.tpl"}
+    
 
   {/if}
 
