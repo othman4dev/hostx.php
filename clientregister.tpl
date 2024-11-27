@@ -46,7 +46,7 @@
                                     <input type="text" name="firstname" id="inputFirstName" class="field form-control" placeholder="{lang key='orderForm.firstName'}" value="{$clientfirstname}" {if !in_array('firstname', $optionalFields)}required{/if} autofocus>
                                 </div>
                             </div>
-                            <div class="col-sm-6">
+                            <div class="col-sm-6" style="display:none;">
                                 <div class="form-group prepend-icon">
                                     <label for="inputLastName" class="field-icon">
                                         <i class="fas fa-user"></i>
