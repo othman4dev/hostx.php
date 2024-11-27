@@ -34,7 +34,7 @@
           <!-- box -->
           <div class="box">
             <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/wishlist.svg" class="box-icon" alt="Wishlist">
-            <h2 class="box-title mb-0">100% White . .<br>Listed</h2>
+            <h2 class="box-title mb-0">12/7 Customer <br>Support</h2>
           </div>
         </div>
       </div>
