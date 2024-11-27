@@ -219,7 +219,7 @@
                                     <label for="inputNewPassword1" class="field-icon">
                                         <i class="fas fa-lock"></i>
                                     </label>
-                                    <input type="password" name="password" id="inputNewPassword1" data-error-threshold="{$pwStrengthErrorThreshold}" data-warning-threshold="{$pwStrengthWarningThreshold}" class="field" placeholder="{lang key='clientareapassword'}" autocomplete="off"{if $remote_auth_prelinked} value="{$password}"{/if}>
+                                    <input style="background-color: #212235;border: none;height: 36px;width: 95%;" type="password" name="password" id="inputNewPassword1" data-error-threshold="{$pwStrengthErrorThreshold}" data-warning-threshold="{$pwStrengthWarningThreshold}" class="field" placeholder="{lang key='clientareapassword'}" autocomplete="off"{if $remote_auth_prelinked} value="{$password}"{/if}>
                                 </div>
                             </div>
                             <div class="col-sm-6">
@@ -227,7 +227,7 @@
                                     <label for="inputNewPassword2" class="field-icon">
                                         <i class="fas fa-lock"></i>
                                     </label>
-                                    <input type="password" name="password2" id="inputNewPassword2" class="field" placeholder="{lang key='clientareaconfirmpassword'}" autocomplete="off"{if $remote_auth_prelinked} value="{$password}"{/if}>
+                                    <input style="background-color: #212235;border: none;height: 36px;width: 95%;" type="password" name="password2" id="inputNewPassword2" class="field" placeholder="{lang key='clientareaconfirmpassword'}" autocomplete="off"{if $remote_auth_prelinked} value="{$password}"{/if}>
                                 </div>
                             </div>
                             <div class="col-sm-6">
