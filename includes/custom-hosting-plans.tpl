@@ -1,15 +1,15 @@
 <div class="theme-plans-i py-90">
-    <div class="container">
+    <div class="container" id="vps-container">
       <!-- se-head -->
       <div class="se-head">
         <h3 class="se-title-1">What about our plans</h3>
         <h4 class="se-title-2">Get More Power With Our Web Hosting Products</h4>
       </div>
       <div style="backgournd-color: ;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px">
-        <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="switchProduct('VPS')">
+        <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;">
           VPS
         </span>
-        <span style=" background-color: #141526; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="switchProduct('RDP')">
+        <span style=" background-color: #141526; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="document.getElementById('rdp-container').style.display = 'block';document.getElementById('vps-container').style.display = none;">
           RDP
         </span>
       </div>
@@ -75,6 +75,7 @@
               </div>
             </div>
           </div>
+          <!-- col -->
           <div class="col-xl-3 col-md-6 mb-xl-0 mb-2 px-xl-0">
             <!-- plan -->
             <div class="plan popular-plan">
@@ -156,20 +157,20 @@
               <!-- plan-head -->
               <div class="plan-head">
                 <!-- plan-name -->
-                <h3 class="plan-name">Enterprise Plan</h3>
+                <h3 class="plan-name">Premium Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">With added privacy and security features.</p>
+                <p class="plan-para">When you just need more.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
-                <h4 class="price">$9.45</h4>
+                <h4 class="price">€50,00</h4>
                 <!-- price-comment -->
-                <p class="price-comment">Normally $18.99 - 12/mo term</p>
+                <p class="price-comment">Normally $59.99 - 12/mo term</p>
               </div>
               <!-- actions -->
               <div class="actions">
-                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Enterprise</a>
+                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Premium</a>
               </div>
               <!-- group -->
               <div class="group">
@@ -177,14 +178,30 @@
                 <h4 class="title-4">Top Features</h4>
                 <!-- list -->
                 <ul class="list list-unstyled">
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Unlimited Websites <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Unlimited SSD Storage <span class="float-box" data-text="We don't limit the amount of storage and bandwidth your site can use as long as it complies with our Hosting Agreement. Should your website bandwidth or storage usage present a risk to the stability, performance or uptime of our servers, we will notify you via email and you may be required to upgrade, or we may restrict the resources your website is using. It’s very rare that a website violates our Hosting Agreement and is typically only seen in sites that use hosting for file sharing or storage."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Custom Themes <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">24/7 Customer Support <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    10 Cores 
+                    <span class="float-box" data-text="This plan includes 10 high-performance cores, ideal for handling demanding workloads and advanced applications."></span>
+                  </li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    70 GB RAM 
+                    <span class="float-box" data-text="With 70 GB of memory, this plan ensures optimal performance for intensive applications and multitasking."></span>
+                  </li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    400 GB NVMe SSD 
+                    <span class="float-box" data-text="Enjoy 400 GB of ultra-fast NVMe SSD storage, delivering unparalleled speed and reliability for your data needs."></span>
+                  </li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    10 Gbps Bandwidth 
+                    <span class="float-box" data-text="A lightning-fast 10 Gbps connection to handle high traffic volumes effortlessly and maintain smooth operations."></span>
+                  </li>
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Website Builder Available</h4>
                 <!-- list -->
@@ -195,7 +212,7 @@
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Also Includes</h4>
                 <!-- list -->
@@ -217,20 +234,20 @@
               <!-- plan-head -->
               <div class="plan-head">
                 <!-- plan-name -->
-                <h3 class="plan-name">Premium Plan</h3>
+                <h3 class="plan-name">Ultimate Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">Get more power with optimized web resources.</p>
+                <p class="plan-para">When you are looking for the best.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
-                <h4 class="price">$13.45</h4>
+                <h4 class="price">€60,00</h4>
                 <!-- price-comment -->
-                <p class="price-comment">Normally $17.99 - 12/mo term</p>
+                <p class="price-comment">Normally $67.99 - 12/mo term</p>
               </div>
               <!-- actions -->
               <div class="actions">
-                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Premium</a>
+                <a href="#" class="theme-btn --fill-primary --btn-size-md shadow-off w-100">Choose Ultimate</a>
               </div>
               <!-- group -->
               <div class="group">
@@ -238,15 +255,36 @@
                 <h4 class="title-4">Top Features</h4>
                 <!-- list -->
                 <ul class="list list-unstyled">
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Unlimited Websites <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Unlimited SSD Storage <span class="float-box" data-text="We don't limit the amount of storage and bandwidth your site can use as long as it complies with our Hosting Agreement. Should your website bandwidth or storage usage present a risk to the stability, performance or uptime of our servers, we will notify you via email and you may be required to upgrade, or we may restrict the resources your website is using. It’s very rare that a website violates our Hosting Agreement and is typically only seen in sites that use hosting for file sharing or storage."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Custom Themes <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">24/7 Customer Support <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
-                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Optimized CPU Resources <span class="float-box" data-text="An economical, 25 GB plan with matching domain and email (with terms of 12/mo. or longer)."></span></li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    14 Cores 
+                    <span class="float-box" data-text="This plan boasts 14 high-performance cores, ideal for handling complex workloads and enterprise-grade applications."></span>
+                  </li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    90 GB RAM DDR4 
+                    <span class="float-box" data-text="Equipped with 90 GB of DDR4 RAM, this plan ensures seamless multitasking and superior system performance."></span>
+                  </li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    500 GB NVMe SSD 
+                    <span class="float-box" data-text="With 500 GB of NVMe SSD storage, enjoy ultra-fast read and write speeds to support your most demanding projects."></span>
+                  </li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    10 Gbps Bandwidth 
+                    <span class="float-box" data-text="A blazing-fast 10 Gbps connection ensures stable and fast data transmission, even under heavy traffic."></span>
+                  </li>
+                  <li>
+                    <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
+                    Optimized CPU Resources 
+                    <span class="float-box" data-text="Experience maximized efficiency with optimized CPU allocation, perfect for resource-intensive tasks."></span>
+                  </li>
                 </ul>
+
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Website Builder Available</h4>
                 <!-- list -->
@@ -257,7 +295,7 @@
                 </ul>
               </div>
               <!-- group -->
-              <div class="group">
+              <div class="group" style="display:none">
                 <!-- title-4 -->
                 <h4 class="title-4">Also Includes</h4>
                 <!-- list -->
@@ -295,17 +333,17 @@
         </div>
       </div>
     </div>
-    <div class="container">
+    <div class="container" id="rpd-container">
       <!-- se-head -->
       <div class="se-head">
         <h3 class="se-title-1">What about our plans</h3>
         <h4 class="se-title-2">Get More Power With Our Web Hosting Products</h4>
       </div>
       <div style="backgournd-color: #141526;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px">
-        <span style=" background-color: ; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="switchProduct('VPS')">
+        <span style=" background-color: ; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="document.getElementById('rdp-container').style.display = 'none';document.getElementById('vps-container').style.display = block;">
           VPS
         </span>
-        <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;" onclick="switchProduct('RDP')">
+        <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;">
           RDP
         </span>
       </div>
