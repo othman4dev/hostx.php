@@ -52,7 +52,6 @@
                 </ul>
               </div>
               <!-- group -->
-              <!--
               <div class="group">
                 <!-- title-4 -->
                 <h4 class="title-4">Website Builder Available</h4>
@@ -63,9 +62,7 @@
                   <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">AI-Driven Templates</li>
                 </ul>
               </div>
-              -->
               <!-- group -->
-              <!--
               <div class="group">
                 <!-- title-4 -->
                 <h4 class="title-4">Also Includes</h4>
@@ -76,7 +73,6 @@
                   <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Free SSL Certificate <span class="float-box" data-text="Linking your site to your domain name has never been easier with GoDaddy registered domain."></span></li>
                 </ul>
               </div>
-              -->
             </div>
           </div>
           <div class="col-xl-3 col-md-6 mb-xl-0 mb-2 px-xl-0">
