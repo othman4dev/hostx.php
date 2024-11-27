@@ -333,7 +333,7 @@
         </div>
       </div>
     </div>
-    <div class="container" id="rpd-container" style="display:none;">
+    <div class="container" id="rdp-container" style="display:none;">
       <!-- se-head -->
       <div class="se-head">
         <h3 class="se-title-1">What about our plans</h3>
