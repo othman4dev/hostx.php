@@ -33,9 +33,9 @@
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
-                <h4 class="price">€7,50</h4>
+                <h4 class="price">€7,50/mo</h4>
                 <!-- price-comment -->
-                <p class="price-comment">Normally $18.99 - 12/mo term</p>
+                <p class="price-comment">Save 5% with a 3-Month Plan - Only €21.38!</p>
               </div>
               <!-- actions -->
               <div class="actions">
@@ -47,10 +47,12 @@
                 <h4 class="title-4">Top Features</h4>
                 <!-- list -->
                 <ul class="list list-unstyled">
-                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">2 Cores <span class="float-box" data-text="Cores are the processing units within a CPU. Having 2 cores means the CPU can handle multiple tasks simultaneously, improving performance and efficiency for your applications and services."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">KVM Virtualization<span class="float-box" data-text="KVM (Kernel-based Virtual Machine) is a Linux-based virtualization tech enabling multiple secure, high-performance virtual environments on one server using hardware extensions."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">2 vCPU Cores <span class="float-box" data-text="Cores are the processing units within a CPU. Having 2 cores means the CPU can handle multiple tasks simultaneously, improving performance and efficiency for your applications and services."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Convoy Control Panel<span class="float-box" data-text="The Convoy Control Panel simplifies VPS management with tools for monitoring, resource control, and configuration, ensuring efficient server operation."></span></li>
                     <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">12 GB RAM DDR4<span class="float-box" data-text="12 GB RAM DDR4 provides fast and efficient memory for your server, allowing it to handle multiple tasks and applications simultaneously with improved performance."></span></li>
                     <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">70 GB NVMe SSD<span class="float-box" data-text="70 GB NVMe SSD provides faster data access and improved performance for your server, enhancing speed and reliability."></span></li>
-                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">10 Gbps Bandwidth<span class="float-box" data-text="10 GB/s network speed provides extremely fast data transfer rates, ensuring quick loading times and efficient handling of high traffic volumes for your server."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">10 Gbps Bandwidth (Unmetered)<span class="float-box" data-text="10 GB/s network speed provides extremely fast data transfer rates, ensuring quick loading times and efficient handling of high traffic volumes for your server."></span></li>
                 </ul>
               </div>
               <!-- group -->
