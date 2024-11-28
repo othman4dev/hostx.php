@@ -254,6 +254,8 @@
     {include file="$template/includes/operating-sys-section.tpl"}
     {* custom-hosting-plans *}
     {include file="$template/includes/custom-hosting-plans.tpl"}
+    {* faq *}
+    {include file="$template/includes/faq-section.tpl"}
     
 
   {/if}
