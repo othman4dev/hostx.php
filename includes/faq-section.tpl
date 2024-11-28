@@ -1,5 +1,5 @@
 <div class="container my-5">
-    <h2 class="text-center mb-5 se-head se-title-2" style="color: #333;">Frequently Asked Questions</h2>
+    <h2 class="text-center mb-5 se-title-2">Frequently Asked Questions</h2>
     <div class="accordion" id="faqAccordion">
         <div class="card mb-3 shadow-sm">
             <div class="card-header" id="headingOne">
