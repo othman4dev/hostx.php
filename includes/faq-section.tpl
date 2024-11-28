@@ -1,5 +1,5 @@
 <div class="container my-5">
-    <h4 class="text-center mb-5 se-title-2">Frequently Asked Questions</h4>
+    <h1 class="text-center mb-5 se-title-1">Frequently Asked Questions</h1>
     <div class="accordion" id="faqAccordion">
         <div class="card mb-3 shadow-sm">
             <div class="card-header" id="headingOne">
