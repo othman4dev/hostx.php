@@ -30,8 +30,8 @@
             <div class="col-lg-2 col-md-3 col-6">
               <!-- item -->
               <div class="item text-center">
-                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/os/android.png" class="img-fluid" alt="Android">
-                <h3 class="text mb-0">Android</h3>
+                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/os/fedora.png" class="img-fluid" alt="Fedora">
+                <h3 class="text mb-0">Fedora</h3>
               </div>
             </div>
             <!-- col -->

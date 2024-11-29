@@ -48,8 +48,8 @@
                 <!-- list -->
                 <ul class="list list-unstyled">
                     <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">KVM Virtualization<span class="float-box" data-text="KVM (Kernel-based Virtual Machine) is a Linux-based virtualization tech enabling multiple secure, high-performance virtual environments on one server using hardware extensions."></span></li>
-                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">2 vCPU Cores <span class="float-box" data-text="Cores are the processing units within a CPU. Having 2 cores means the CPU can handle multiple tasks simultaneously, improving performance and efficiency for your applications and services."></span></li>
                     <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Convoy Control Panel<span class="float-box" data-text="The Convoy Control Panel simplifies VPS management with tools for monitoring, resource control, and configuration, ensuring efficient server operation."></span></li>
+                    <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">2 vCPU Cores <span class="float-box" data-text="Cores are the processing units within a CPU. Having 2 cores means the CPU can handle multiple tasks simultaneously, improving performance and efficiency for your applications and services."></span></li>
                     <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">12 GB RAM DDR4<span class="float-box" data-text="12 GB RAM DDR4 provides fast and efficient memory for your server, allowing it to handle multiple tasks and applications simultaneously with improved performance."></span></li>
                     <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">70 GB NVMe SSD<span class="float-box" data-text="70 GB NVMe SSD provides faster data access and improved performance for your server, enhancing speed and reliability."></span></li>
                     <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">10 Gbps Bandwidth (Unmetered)<span class="float-box" data-text="10 GB/s network speed provides extremely fast data transfer rates, ensuring quick loading times and efficient handling of high traffic volumes for your server."></span></li>
@@ -88,14 +88,14 @@
                 <!-- plan-name -->
                 <h3 class="plan-name">Standard Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">Ideal for everyday use with balanced performance.</p>
+                <p class="plan-para">Perfect for daily use, offering balanced performance and reliability.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
                 <h4 class="price">€20,00</h4>
                 <!-- price-comment -->
-                <p class="price-comment">Normally $28.99 - 12/mo term</p>
+                <p class="price-comment">Save 5% with a 3-Month Plan - Only €57.00!</p>
               </div>
               <!-- actions -->
               <div class="actions">
@@ -107,9 +107,12 @@
                 <h4 class="title-4">Top Features</h4>
                 <!-- list -->
                 <ul class="list list-unstyled">
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">KVM Virtualization<span class="float-box" data-text="KVM (Kernel-based Virtual Machine) is a Linux-based virtualization tech enabling multiple secure, high-performance virtual environments on one server using hardware extensions."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Convoy Control Panel<span class="float-box" data-text="The Convoy Control Panel simplifies VPS management with tools for monitoring, resource control, and configuration, ensuring efficient server operation."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">DDoS Protection (Layer 4/7)<span class="float-box" data-text="DDoS Protection (Layer 4/7) defends your server from attacks by filtering malicious traffic at the network and application levels, ensuring uninterrupted service and security."></span></li>
                   <li>
                     <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
-                    6 Cores 
+                    6 vCPU Cores
                     <span class="float-box" data-text="This plan provides 6 powerful cores, suitable for handling moderate workloads and ensuring smooth performance for most applications."></span>
                   </li>
                   <li>
@@ -163,14 +166,14 @@
                 <!-- plan-name -->
                 <h3 class="plan-name">Premium Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">Designed for those who need more power and flexibility.</p>
+                <p class="plan-para">Built for those who need extra power and enhanced flexibility.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
                 <h4 class="price">€50,00</h4>
                 <!-- price-comment -->
-                <p class="price-comment">Normally $59.99 - 12/mo term</p>
+                <p class="price-comment">Save 5% with a 3-Month Plan – Only €141.50!</p>
               </div>
               <!-- actions -->
               <div class="actions">
@@ -182,9 +185,12 @@
                 <h4 class="title-4">Top Features</h4>
                 <!-- list -->
                 <ul class="list list-unstyled">
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">KVM Virtualization<span class="float-box" data-text="KVM (Kernel-based Virtual Machine) is a Linux-based virtualization tech enabling multiple secure, high-performance virtual environments on one server using hardware extensions."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Convoy Control Panel<span class="float-box" data-text="The Convoy Control Panel simplifies VPS management with tools for monitoring, resource control, and configuration, ensuring efficient server operation."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">DDoS Protection (Layer 4/7)<span class="float-box" data-text="DDoS Protection (Layer 4/7) defends your server from attacks by filtering malicious traffic at the network and application levels, ensuring uninterrupted service and security."></span></li>
                   <li>
                     <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
-                    10 Cores 
+                    10 vCPU Cores 
                     <span class="float-box" data-text="This plan includes 10 high-performance cores, ideal for handling demanding workloads and advanced applications."></span>
                   </li>
                   <li>
@@ -240,14 +246,14 @@
                 <!-- plan-name -->
                 <h3 class="plan-name">Ultimate Plan</h3>
                 <!-- plan-para -->
-                <p class="plan-para">The top choice for high-performance, premium hosting.</p>
+                <p class="plan-para">The top choice for exceptional performance and maximum reliability.</p>
               </div>
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
                 <h4 class="price">€60,00</h4>
                 <!-- price-comment -->
-                <p class="price-comment">Normally $67.99 - 12/mo term</p>
+                <p class="price-comment">Save 5% with a 3-Month Plan – Only €171.00!</p>
               </div>
               <!-- actions -->
               <div class="actions">
@@ -259,6 +265,9 @@
                 <h4 class="title-4">Top Features</h4>
                 <!-- list -->
                 <ul class="list list-unstyled">
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">KVM Virtualization<span class="float-box" data-text="KVM (Kernel-based Virtual Machine) is a Linux-based virtualization tech enabling multiple secure, high-performance virtual environments on one server using hardware extensions."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">Convoy Control Panel<span class="float-box" data-text="The Convoy Control Panel simplifies VPS management with tools for monitoring, resource control, and configuration, ensuring efficient server operation."></span></li>
+                  <li><img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">DDoS Protection (Layer 4/7)<span class="float-box" data-text="DDoS Protection (Layer 4/7) defends your server from attacks by filtering malicious traffic at the network and application levels, ensuring uninterrupted service and security."></span></li>
                   <li>
                     <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/check-circle.svg" class="img-fluid" alt="Icon">
                     14 Cores 
@@ -318,7 +327,23 @@
         <!-- line -->
         <div class="line d-flex align-items-center justify-content-start">
           <i class="bi bi-cpu" style="color:#0060fe;margin-right:7px"></i>
-          <span class="text">Intel Xeon E5-2673 v4 @ 2.30/3.5 GHz</span>
+          <span class="text">Intel Xeon E5-2673 v4 @ 2.30/3.5 GHz</span>
+        </div>
+        <div class="line d-flex align-items-center justify-content-start">
+          <i class="bi bi-cloud-arrow-up" style="color:#0060fe;margin-right:7px"></i>
+          <span class="text">Monthly Backups</span>
+        </div>
+        <div class="line d-flex align-items-center justify-content-start">
+          <i class="bi bi-shield-lock" style="color:#0060fe;margin-right:7px"></i>
+          <span class="text">100% Privacy</span>
+        </div>
+        <div class="line d-flex align-items-center justify-content-start">
+          <i class="bi bi-lightning-charge" style="color:#0060fe;margin-right:7px"></i>
+          <span class="text">Instant Setup</span>
+        </div>
+        <div class="line d-flex align-items-center justify-content-start">
+          <i class="bi bi-check-circle" style="color:#0060fe;margin-right:7px"></i>
+          <span class="text">Super Easy to Use</span>
         </div>
       </div>
     </div>
