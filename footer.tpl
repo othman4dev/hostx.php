@@ -20,7 +20,7 @@
             <div style="width:40%; display:flex;flex-direction:column;" >
               <div class="icon" style="width:150px;height:100px;background-color:#ddd;"></div>
               <p style="margin-top: 20px;margin-bottom: 20px;">
-               {$companyname} provides anonymous and secure hosting for various use cases.
+               {$companyname} offers anonymous, secure, and reliable hosting for all your needs.
               </p>
               <div style="display:flex; align-items:center; gap:20px; height: 40px;">
                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/bitcoin.png" style="height:30px"/>
@@ -45,13 +45,13 @@
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">
               <li class="list-title">About {$companyname}</li>
-              <li class="list-link"><a href="#">{lang key="footer.aboutUs"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.newsroom"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.investorRelations"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.Careers"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.CorporateResponsibility"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.TrustCenter"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.Legal"}</a></li>
+              <li class="list-link"><a href="/">Dashboard</a></li>
+              <li class="list-link"><a href="/index.php?rp=/knowledgebase">Knowledge Base</a></li>
+              <li class="list-link"><a href="#">Learn More</a></li>
+              <li class="list-link"><a href="#">Server Uptime</a></li>
+              <li class="list-link"><a href="#">Contact Us</a></li>
+              <li class="list-link"><a href="#">Terms of Service</a></li>
+              <li class="list-link"><a href="#">Privacy Policy</a></li>
             </ul>
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">
