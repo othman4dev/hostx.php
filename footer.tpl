@@ -32,13 +32,13 @@
               <a href="https://discord.gg/nFGRhbb3y6">
               <div style="margin-top:15px;display:flex;align-items:center;gap:10px;">
                 <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/discord.png" style="height:30px;"/>
-                <p>Discord</p>
+                <p style="margin:0">Discord</p>
               </div>
               </a>
               <a href="https://t.me/classrdp ">
               <div style="margin-top:15px;display:flex;align-items:center;gap:10px;">
                 <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/telegram.webp" style="height:30px;"/>
-                <p>Telegram</p>
+                <p style="margin:0">Telegram</p>
               </div>
               </a>
             </div>
