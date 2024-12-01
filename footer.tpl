@@ -7,14 +7,7 @@
       </div>
     {/if}
     <div class="clearfix"></div>
-    <div>
-      <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/stripe.png" style="height:40px"/>
-      <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/paypal.png" style="height:40px"/>
-      <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/bitcoin.png" style="height:40px"/>
-      <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/usdt.png" style="height:40px"/>
-      <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/eth.png" style="height:40px"/>
-      <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/litcoin.png" style="height:40px"/>
-      <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/solana.png" style="height:40px"/>
+    </div>
     </div>
     </section>
 
@@ -30,8 +23,14 @@
                {$companyname} provides anonymous and secure hosting for various use cases.
               </p>
               <div style="display:flex; align-items:center; gap:10px; height: 40px;">
-               
-              </div>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/stripe.png" style="height:40px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/paypal.png" style="height:40px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/bitcoin.png" style="height:40px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/usdt.png" style="height:40px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/eth.png" style="height:40px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/litcoin.png" style="height:40px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/solana.png" style="height:40px"/>
+                </div>
             </div>
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">
