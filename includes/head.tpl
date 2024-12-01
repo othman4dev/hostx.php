@@ -18,7 +18,7 @@
         saving = '{lang|addslashes key="markdown.saving"}',
         whmcsBaseUrl = "{\WHMCS\Utility\Environment\WebHelper::getBaseUrl()}",
         requiredText = '{lang|addslashes key="orderForm.required"}',
-        recaptchaSiteKey = "{if $captcha}{$captcha->recaptcha->getSiteKey()}{/if}";
+        recaptchaSiteKey = "{if $captcha}{if isset($captcha->recaptcha) && method_exists($captcha->recaptcha, 'getSiteKey')}{$captcha->recaptcha->getSiteKey()}{else}''{/if}{/if}";
 </script>
 <script src="{assetPath file='scripts.js'}?v={$versionHash}"></script>
 
