@@ -30,7 +30,7 @@
             <div class="col-lg-2 col-md-3 col-6">
               <!-- item -->
               <div class="item text-center">
-                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/os/fedora.png" class="img-fluid" alt="Fedora">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" class="img-fluid" alt="Fedora">
                 <h3 class="text mb-0">Fedora</h3>
               </div>
             </div>
