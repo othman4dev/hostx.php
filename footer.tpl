@@ -45,7 +45,7 @@
             </ul>
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">
-              <li class="list-title">{lang key="footer.HelpCenter"}</li>
+              <li class="list-title">Resources</li>
               <li class="list-link"><a href="{$WEB_ROOT}/index.php?rp=/knowledgebase">{lang key="footer.HelpCenter"}</a></li>
               <li class="list-link"><a href="#">{lang key="footer.Community"}</a></li>
               <li class="list-link"><a href="#">{lang key="footer.Blog"}</a></li>
@@ -55,7 +55,7 @@
             </ul>
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">
-              <li class="list-title">{lang key="footer.Resources"}</li>
+              <li class="list-title">Services</li>
               <li class="list-link"><a href="#">{lang key="footer.Webmail"}</a></li>
               <li class="list-link"><a href="#">{lang key="footer.WHOIS"}</a></li>
               <li class="list-link"><a href="#">{lang key="footer.MobileApp"}</a></li>
@@ -64,49 +64,6 @@
               <li class="list-link"><a href="#">{lang key="footer.CorporateDomains"}</a></li>
               <li class="list-link"><a href="#">{lang key="footer.RedeemCode"}</a></li>
             </ul>
-          </div>
-        </div>
-      </div>
-      <!-- footer-bottom -->
-      <div class="footer-bottom">
-        <div class="container">
-          <!-- content -->
-          <div class="content d-flex align-items-start mb-2">
-            <!-- logo -->
-            <div class="logo mb-lg-0 mb-1">
-              <a href="{$WEB_ROOT}">
-                {if $assetLogoPath}
-                  <img src="{$assetLogoPath}" class="img-fluid" alt="{$companyname}">
-                {else}
-                  {$companyname}
-                {/if}
-              </a>
-            </div>
-            <!-- copyright -->
-            <div class="copyright mr-lg-5">
-              <!-- links -->
-              <ul class="links list-unstyled d-flex align-items-center flex-wrap">
-              <li><a href="#">{lang key="footer.TermsofUse"}</a></li>
-              <li><a href="#">{lang key="footer.PrivacyPolicy"}</a></li>
-              <li><a href="#">{lang key="footer.Trademarks"}</a></li>
-              <li><a href="#">{lang key="footer.LicenseAgreements"}</a></li>
-              </ul>
-              <!-- para-3 -->
-              <p class="para-3 text-left">{lang key="copyrightFooterNotice" year=$date_year company=$companyname}</p>
-            </div>
-            <!-- social-list -->
-            <ul class="social-list list-unstyled d-flex align-items-center justify-content-lg-end justify-content-center ml-lg-auto mt-lg-0 mt-2">
-              {include file="$template/includes/social-accounts.tpl"}
-            </ul>
-          </div>
-          <!-- content -->
-          <div class="content d-lg-flex align-items-end flex-wrap">
-            <!-- para-3 -->
-            <p class="para-3">{lang key="footer.text-1"}<br>{lang key="footer.text-2"}</p>
-            <!-- sign -->
-            <div class="signature ml-auto mt-lg-0 mt-3">
-              <p class="para-3">{lang key="footer.developedBy"} <a href="https://bit.ly/niftytheme_In1">{lang key="footer.niftyTheme"}</a></p>
-            </div>
           </div>
         </div>
       </div>
