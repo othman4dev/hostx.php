@@ -29,14 +29,18 @@
                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/litcoin.png" style="height:30px"/>
                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/solana.png" style="height:30px"/>
               </div>
+              <a href="https://discord.gg/nFGRhbb3y6">
               <span style="margin-top:15px">
                 <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/discord.png" style="height:30px; margin-right: 10px;"/>
-                Discord
+                <p>Discord</p>
               </span>
+              </a>
+              <a href="https://t.me/classrdp ">
               <span style="margin-top:15px">
                 <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/telegram.webp" style="height:30px; margin-right: 10px;"/>
-                Telegram
+                <p>Telegram</p>
               </span>
+              </a>
             </div>
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">
