@@ -8,7 +8,7 @@
       <div style="backgournd-color: ;height: 40px;width: 100%;align-items: center;display: flex;justify-content: center;gap: 10px;margin-bottom:50px">
         <span style=" background-color: #0060fe; font-size: 25px; padding: 15px; padding-inline: 25px; border-radius: 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:7px">
           <i class="bi bi-server"></i>
-          VPS / <i class="bi bi-pc"></i> RPD
+          VPS / <i class="bi bi-pc"></i> RDP
         </span>
       </div>
       <!-- plans -->
