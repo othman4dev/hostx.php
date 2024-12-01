@@ -61,8 +61,8 @@
           </div>
         </div>
       </div>
-      <!-- 
-      <div class="footer-middle">
+      
+      <!-- <div class="footer-middle">
         <div class="container">
           <!-- reg-bar -->
           <div class="reg-bar text-md-left text-center">
