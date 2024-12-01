@@ -17,6 +17,15 @@
         <div class="container">
           <!-- footer-list-group -->
           <div class="footer-list-group">
+            <div style="width:40%; display:flex;flex-direction:column;" >
+              <div class="icon" style="width:150px;height:100px;background-color:#ddd;"></div>
+              <p>
+               {$companyname} provides anonymous and secure hosting for various use cases.
+              </p>
+              <div style="display:flex; align-items:center; gap:10px; height: 40px;">
+               
+              </div>
+            </div>
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">
               <li class="list-title">About {$companyname}</li>
@@ -49,35 +58,10 @@
               <li class="list-link"><a href="#">{lang key="footer.CorporateDomains"}</a></li>
               <li class="list-link"><a href="#">{lang key="footer.RedeemCode"}</a></li>
             </ul>
-            <!-- footer-list -->
-            <ul class="footer-list list-unstyled">
-              <li class="list-title">{lang key="footer.PartnerPrograms"}</li>
-              <li class="list-link"><a href="#">{lang key="footer.Affiliates"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.ResellerPrograms"}</a></li>
-            </ul>
-            <!-- footer-list -->
-            <ul class="footer-list list-unstyled">
-              <li class="list-title">{lang key="footer.Account"}</li>
-              <li class="list-link"><a href="{$WEB_ROOT}/index.php?rp=/store">{lang key="footer.MyProducts"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.RenewalsBilling"}</a></li>
-              <li class="list-link"><a href="register.php">{lang key="footer.CreateAccount"}</a></li>
-            </ul>
-            <!-- footer-list -->
-            <ul class="footer-list list-unstyled">
-              <li class="list-title">{lang key="footer.Shopping"}</li>
-              <li class="list-link"><a href="{$WEB_ROOT}/cart.php?a=add&domain=register">{lang key="footer.DomainSearch"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.Websites"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.WordPress"}</a></li>
-              <li class="list-link"><a href="{$WEB_ROOT}/index.php?rp=/store">{lang key="footer.Hosting"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.WebSecurity"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.EmailOffice"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.PhoneNumbers"}</a></li>
-              <li class="list-link"><a href="#">{lang key="footer.Promos"}</a></li>
-            </ul>
           </div>
         </div>
       </div>
-      <!-- footer-middle -->
+      <!-- 
       <div class="footer-middle">
         <div class="container">
           <!-- reg-bar -->
@@ -97,7 +81,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <!-- footer-bottom -->
       <div class="footer-bottom">
         <div class="container">
