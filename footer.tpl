@@ -19,7 +19,7 @@
           <div class="footer-list-group">
             <div style="width:40%; display:flex;flex-direction:column;" >
               <div class="icon" style="width:150px;height:100px;background-color:#ddd;"></div>
-              <p>
+              <p style="margin-top: 20px;margin-bottom: 20px;">
                {$companyname} provides anonymous and secure hosting for various use cases.
               </p>
               <div style="display:flex; align-items:center; gap:10px; height: 40px;">
