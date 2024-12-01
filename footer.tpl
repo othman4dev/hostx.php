@@ -23,13 +23,13 @@
                {$companyname} provides anonymous and secure hosting for various use cases.
               </p>
               <div style="display:flex; align-items:center; gap:10px; height: 40px;">
-               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/stripe.png" style="height:40px"/>
-               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/paypal.png" style="height:40px"/>
-               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/bitcoin.png" style="height:40px"/>
-               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/usdt.png" style="height:40px"/>
-               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/eth.png" style="height:40px"/>
-               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/litcoin.png" style="height:40px"/>
-               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/solana.png" style="height:40px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/stripe.png" style="height:70px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/paypal.png" style="height:70px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/bitcoin.png" style="height:30px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/usdt.png" style="height:30px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/eth.png" style="height:30px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/litcoin.png" style="height:30px"/>
+               <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/solana.png" style="height:30px"/>
                 </div>
             </div>
             <!-- footer-list -->
