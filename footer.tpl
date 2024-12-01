@@ -30,16 +30,16 @@
                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/solana.png" style="height:30px"/>
               </div>
               <a href="https://discord.gg/nFGRhbb3y6">
-              <span style="margin-top:15px">
-                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/discord.png" style="height:30px; margin-right: 10px;"/>
+              <div style="margin-top:15px;display:flex;align-items:center;gap:10px;">
+                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/discord.png" style="height:30px;"/>
                 <p>Discord</p>
-              </span>
+              </div>
               </a>
               <a href="https://t.me/classrdp ">
-              <span style="margin-top:15px">
-                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/telegram.webp" style="height:30px; margin-right: 10px;"/>
+              <div style="margin-top:15px;display:flex;align-items:center;gap:10px;">
+                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/telegram.webp" style="height:30px;"/>
                 <p>Telegram</p>
-              </span>
+              </div>
               </a>
             </div>
             <!-- footer-list -->
