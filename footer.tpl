@@ -61,27 +61,6 @@
           </div>
         </div>
       </div>
-      
-      <!-- <div class="footer-middle">
-        <div class="container">
-          <!-- reg-bar -->
-          <div class="reg-bar text-md-left text-center">
-            <div class="d-lg-flex align-items-center justify-content-between">
-              <!-- text -->
-              <div class="text">
-                <!-- title-4 -->
-                <h4 class="title-4">Switch to Pro Plan today and<br>save up to 30% off</h4>
-                <!-- para-2 -->
-                <p class="para-2">Check which version are available to upgrade to and validate wheter<br>your current subscription is upgradeable.</p>
-              </div>
-              <!-- buttons -->
-              <div class="buttons mt-lg-0 mt-3">
-                <a href="{$WEB_ROOT}/index.php?rp=/store" class="theme-btn --fill-primary shadow-off text-uppercase font-500">Upgrade my plan</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> -->
       <!-- footer-bottom -->
       <div class="footer-bottom">
         <div class="container">
