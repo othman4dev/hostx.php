@@ -93,7 +93,7 @@
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
-                <h4 class="price">$20,00</h4>
+                <h4 class="price">$20,00/mo</h4>
                 <!-- price-comment -->
                 <p class="price-comment">Save 5% with a 3-Month Plan - Only $57.00!</p>
               </div>
@@ -171,7 +171,7 @@
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
-                <h4 class="price">$50,00</h4>
+                <h4 class="price">$50,00/mo</h4>
                 <!-- price-comment -->
                 <p class="price-comment">Save 5% with a 3-Month Plan – Only $141.50!</p>
               </div>
@@ -251,7 +251,7 @@
               <!-- plan-price -->
               <div class="plan-price">
                 <!-- price -->
-                <h4 class="price">$60,00</h4>
+                <h4 class="price">$60,00/mo</h4>
                 <!-- price-comment -->
                 <p class="price-comment">Save 5% with a 3-Month Plan – Only $171.00!</p>
               </div>
