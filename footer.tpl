@@ -30,7 +30,15 @@
                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/eth.png" style="height:30px"/>
                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/litcoin.png" style="height:30px"/>
                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/solana.png" style="height:30px"/>
-                </div>
+              </div>
+              <span >
+                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/discord.png" style="height:30px; margin-right: 10px;"/>
+                Discord
+              </span>
+              <span >
+                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/footer/telegram.webp" style="height:30px; margin-right: 10px;"/>
+                Discord
+              </span>
             </div>
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">
