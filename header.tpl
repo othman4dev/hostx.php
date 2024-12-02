@@ -211,10 +211,6 @@
           <!-- info -->
           <div class="info d-flex align-items-center">
             <!-- item -->
-            <a href="tel:0000" class="item">
-              <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/phone-call-light.png" class="img-fluid" alt="Icon">
-              <span class="text">(20) 123 456 7890</span>
-            </a>
           </div>
           <!-- links -->
           <div class="links d-xl-flex align-items-center ml-auto" id="theme-navbar-links">
