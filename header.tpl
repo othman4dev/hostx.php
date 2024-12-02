@@ -133,19 +133,6 @@
 
           <!-- options -->
           <div class="options d-md-flex d-none align-items-center justify-content-end ml-auto">
-
-            <!-- c-link -->
-            <a href="{$WEB_ROOT}/cart.php?a=add&domain=register" class="c-link">
-              <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/globe.png" class="icon" alt="icon">
-              <span class="text">{lang key="orderregisterdomain"}</span>
-            </a>
-
-            <!-- c-link -->
-            <a href="{$WEB_ROOT}/cart.php?a=add&domain=transfer" class="c-link">
-              <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/domain.png" class="icon" alt="icon">
-              <span class="text">{lang key="navtransferdomain"}</span>
-            </a>
-
             <!-- buttons -->
             <div class="buttons d-flex align-items-center">
               {if !$loggedin}
