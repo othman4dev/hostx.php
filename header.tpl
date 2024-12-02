@@ -123,7 +123,7 @@
           </div>
 
           <!-- brand -->
-          <a href="{$WEB_ROOT}" class="brand d-flex align-items-center">
+          <a href="/" class="brand d-flex align-items-center">
             {if $assetLogoPath}
               <img src="{$assetLogoPath}" class="img-fluid" alt="{$companyname}">
             {else}
