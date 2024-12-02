@@ -12748,7 +12748,6 @@ fieldset[disabled] .btn-default.focus {
   display: block;
   position: relative;
   padding: 12px 20px;
-  /* background-color: #f8f8f8; */
   border-right: 1px solid #ccc;
   text-decoration: none;
   transition: all 0.3s ease;
@@ -12784,7 +12783,6 @@ fieldset[disabled] .btn-default.focus {
 }
 
 .tiles .tile:hover {
-  background-color: #f2f2f2;
   cursor: pointer;
 }
 
