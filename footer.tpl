@@ -45,13 +45,13 @@
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">
               <li class="list-title">About {$companyname}</li>
-              <li class="list-link"><a href="/">Dashboard</a></li>
-              <li class="list-link"><a href="/index.php?rp=/knowledgebase">Knowledge Base</a></li>
+              <li class="list-link"><a href="/clientarea.php">Dashboard</a></li>
+              <li class="list-link"><a href="/knowledgebase">Knowledge Base</a></li>
               <li class="list-link"><a href="#">Learn More</a></li>
-              <li class="list-link"><a href="#">Server Uptime</a></li>
+              <li class="list-link"><a href="/knowledgebase/4/Refund-Policy.html">Refund Policy</a></li>
               <li class="list-link"><a href="/contact.php">Contact Us</a></li>
-              <li class="list-link"><a href="#">Terms of Service</a></li>
-              <li class="list-link"><a href="#">Privacy Policy</a></li>
+              <li class="list-link"><a href="/knowledgebase/6/Terms-and-Conditions.html">Terms of Service</a></li>
+              <li class="list-link"><a href="/knowledgebase/5/Privacy-Policy.html">Privacy Policy</a></li>
               <li class="list-link"><a href="#">About Us</a></li>
             </ul>
             <!-- footer-list -->
