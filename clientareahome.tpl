@@ -63,13 +63,13 @@
     </div>
 {/foreach}
 
-<div class="client-home-cards" style="background-color:#000">
+<div class="client-home-cards">
     <div class="row">
         <div class="col-12">
 
             {function name=outputHomePanels}
                 <div menuItemName="{$item->getName()}" class="card card-accent-{$item->getExtra('color')}{if $item->getClass()} {$item->getClass()}{/if}"{if $item->getAttribute('id')} id="{$item->getAttribute('id')}"{/if}>
-                    <div class="card-header">
+                    <div class="card-header"  style="background-color:#000">
                         <h3 class="card-title m-0">
                             {if $item->getExtra('btn-link') && $item->getExtra('btn-text')}
                                 <div class="float-right">
