@@ -50,7 +50,7 @@
               <li class="list-link"><a href="#">Learn More</a></li>
               <li class="list-link"><a href="/knowledgebase/4/Refund-Policy.html">Refund Policy</a></li>
               <li class="list-link"><a href="/contact.php">Contact Us</a></li>
-              <li class="list-link"><a href="/terms.php">Terms of Service</a></li>
+              <li class="list-link"><a href="terms.php">Terms of Service</a></li>
               <li class="list-link"><a href="/knowledgebase/5/Privacy-Policy.html">Privacy Policy</a></li>
               <li class="list-link"><a href="#">About Us</a></li>
             </ul>
