@@ -3,7 +3,7 @@
 <div class="tiles mb-4">
     <div class="row no-gutters">
         <div class="col-6 col-xl-3">
-            <a href="clientarea.php?action=services" class="tile">
+            <a href="clientarea.php?action=services" class="tile" style="background-color:#000">
                 <i class="fas fa-cube"></i>
                 <div class="stat">{$clientsstats.productsnumactive}</div>
                 <div class="title">{lang key='navservices'}</div>
@@ -12,7 +12,7 @@
         </div>
         {if $clientsstats.numdomains || $registerdomainenabled || $transferdomainenabled}
             <div class="col-6 col-xl-3">
-                <a href="clientarea.php?action=domains" class="tile">
+                <a href="clientarea.php?action=domains" class="tile"  style="background-color:#000">
                     <i class="fas fa-globe"></i>
                     <div class="stat">{$clientsstats.numactivedomains}</div>
                     <div class="title">{lang key='navdomains'}</div>
@@ -21,7 +21,7 @@
             </div>
         {elseif $condlinks.affiliates && $clientsstats.isAffiliate}
             <div class="col-6 col-xl-3">
-                <a href="affiliates.php" class="tile">
+                <a href="affiliates.php" class="tile"  style="background-color:#000">
                     <i class="fas fa-shopping-cart"></i>
                     <div class="stat">{$clientsstats.numaffiliatesignups}</div>
                     <div class="title">{lang key='affiliatessignups'}</div>
@@ -30,7 +30,7 @@
             </div>
         {else}
             <div class="col-6 col-xl-3">
-                <a href="clientarea.php?action=quotes" class="tile">
+                <a href="clientarea.php?action=quotes" class="tile"  style="background-color:#000">
                     <i class="far fa-file-alt"></i>
                     <div class="stat">{$clientsstats.numquotes}</div>
                     <div class="title">{lang key='quotes'}</div>
@@ -39,7 +39,7 @@
             </div>
         {/if}
         <div class="col-6 col-xl-3">
-            <a href="supporttickets.php" class="tile">
+            <a href="supporttickets.php" class="tile"  style="background-color:#000">
                 <i class="fas fa-comments"></i>
                 <div class="stat">{$clientsstats.numactivetickets}</div>
                 <div class="title">{lang key='navtickets'}</div>
@@ -47,7 +47,7 @@
             </a>
         </div>
         <div class="col-6 col-xl-3">
-            <a href="clientarea.php?action=invoices" class="tile">
+            <a href="clientarea.php?action=invoices" class="tile" style="background-color:#000">
                 <i class="fas fa-credit-card"></i>
                 <div class="stat">{$clientsstats.numunpaidinvoices}</div>
                 <div class="title">{lang key='navinvoices'}</div>
