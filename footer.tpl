@@ -49,9 +49,10 @@
               <li class="list-link"><a href="/index.php?rp=/knowledgebase">Knowledge Base</a></li>
               <li class="list-link"><a href="#">Learn More</a></li>
               <li class="list-link"><a href="#">Server Uptime</a></li>
-              <li class="list-link"><a href="#">Contact Us</a></li>
+              <li class="list-link"><a href="/contact.php">Contact Us</a></li>
               <li class="list-link"><a href="#">Terms of Service</a></li>
               <li class="list-link"><a href="#">Privacy Policy</a></li>
+              <li class="list-link"><a href="#">About Us</a></li>
             </ul>
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">

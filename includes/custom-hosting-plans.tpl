@@ -1,4 +1,4 @@
-<div class="theme-plans-i py-90">
+<div class="theme-plans-i py-90" id="plans">
     <div class="container" id="vps-container">
       <!-- se-head -->
       <div class="se-head">

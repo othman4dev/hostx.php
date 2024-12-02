@@ -19,7 +19,7 @@
           </div>
           <!-- buttons -->
           <div class="buttons">
-            <a href="#" class="theme-btn --fill-primary mr-2 mb-md-0 mb-1">Get Started</a>
+            <a href="#plans" class="theme-btn --fill-primary mr-2 mb-md-0 mb-1">Get Started</a>
             <a href="#" class="theme-btn --outline-dark">Learn More</a>
           </div>
         </div>
