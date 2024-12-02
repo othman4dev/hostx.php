@@ -63,7 +63,7 @@
     </div>
 {/foreach}
 
-<div class="client-home-cards">
+<div class="client-home-cards" style="background-color:#000">
     <div class="row">
         <div class="col-12">
 
