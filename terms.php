@@ -15,12 +15,6 @@
 </head>
 <body class="dark-theme terms-page" id="terms-page">
 
-  <!-- :: PRELOADER :: -->
-  <?php include 'templates/preloader.inc.php'; ?>
-
-  <!-- :: THEME-NAVBAR :: -->
-  <?php include 'templates/navbar.inc.php'; ?>
-
   <!-- :: MAIN :: -->
   <main>
     <div class="container-fluid">
@@ -808,8 +802,6 @@ main > div > .content .list-link:hover {
 /* ----------------------------------- */
   </style>
 
-  <!-- :: FOOTER :: -->
-  <?php include 'templates/footer.inc.php'; ?>
 
   <script src="assets/js/jquery-3.7.0.min.js"></script>
   <script src="assets/js/jQuery.cookies.js"></script>
