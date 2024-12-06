@@ -48,11 +48,11 @@
               <li class="list-link"><a href="/clientarea.php">Dashboard</a></li>
               <li class="list-link"><a href="/knowledgebase">Knowledge Base</a></li>
               <li class="list-link"><a href="#">Learn More</a></li>
-              <li class="list-link"><a href="/knowledgebase/4/Refund-Policy.html">Refund Policy</a></li>
+              <li class="list-link"><a href="https://othman4dev.github.io/classRDP/refund">Refund Policy</a></li>
               <li class="list-link"><a href="/contact.php">Contact Us</a></li>
-              <li class="list-link"><a href="https://othman4dev.github.io/classRDP/">Terms of Service</a></li>
-              <li class="list-link"><a href="/knowledgebase/5/Privacy-Policy.html">Privacy Policy</a></li>
-              <li class="list-link"><a href="#">About Us</a></li>
+              <li class="list-link"><a href="https://othman4dev.github.io/classRDP/terms.html">Terms of Service</a></li>
+              <li class="list-link"><a href="https://othman4dev.github.io/classRDP/privacy.html">Privacy Policy</a></li>
+              <li class="list-link"><a href="https://othman4dev.github.io/classRDP/about.html">About Us</a></li>
             </ul>
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">
