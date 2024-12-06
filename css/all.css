@@ -1797,6 +1797,11 @@
   box-shadow: none;
   background: #eee;
 }
+
+#order-standard_cart .products .product {
+  background-color: none !important;
+}
+
 .md-editor > textarea:focus {
   box-shadow: none;
   background: #fff;
