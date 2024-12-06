@@ -47,7 +47,6 @@
               <li class="list-title">About {$companyname}</li>
               <li class="list-link"><a href="/clientarea.php">Dashboard</a></li>
               <li class="list-link"><a href="/knowledgebase">Knowledge Base</a></li>
-              <li class="list-link"><a href="#">Learn More</a></li>
               <li class="list-link"><a href="https://othman4dev.github.io/classRDP/refund">Refund Policy</a></li>
               <li class="list-link"><a href="/contact.php">Contact Us</a></li>
               <li class="list-link"><a href="https://othman4dev.github.io/classRDP/terms.html">Terms of Service</a></li>
