@@ -14039,7 +14039,7 @@ div.tweet span {
 .upgrade .products .product {
   margin: 20px 0;
   padding: 0;
-  background-color: #fff;
+  /* background-color: #fff; */
 }
 
 .upgrade .products .product .current,
