@@ -80,36 +80,6 @@
       </div>
     {/if}
 
-    {if !$loggedin}
-      <!-- :: NEWS-AREA :: -->
-      <div class="news-area d-lg-block" id="news-area">
-        <div class="container">
-          <!-- row -->
-          <div class="row align-items-center">
-            <!-- col -->
-            <div class="col-lg-6">
-              <!-- news -->
-              <div class="news new d-flex align-items-center">
-                <!-- badge -->
-                <div class="badge mr--sm-2">NEW</div>
-                <!-- link -->
-                <a href="#" class="link">An economical, 25 GB plan with free matching domain.</a>
-              </div>
-            </div>
-            <!-- col -->
-            <div class="col-lg-6 d-lg-block d-none">
-              <!-- links -->
-              <ul class="links list-unstyled d-flex align-items-center justify-content-end mb-0" data-gap-x="10px">
-                <li class="item"><a href="#" target="_blank">Documentation</a></li>
-                <li class="item"><a href="#" target="_blank">About us</a></li>
-                <li class="item"><a href="#" target="_blank">Sitemap</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    {/if}
-
     <!-- :: THEME-NAVBAR :: -->
     <nav class="theme-navbar" id="theme-navbar">
       <div class="container">
