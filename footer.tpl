@@ -47,11 +47,11 @@
               <li class="list-title">About {$companyname}</li>
               <li class="list-link"><a href="/clientarea.php">Dashboard</a></li>
               <li class="list-link"><a href="/knowledgebase">Knowledge Base</a></li>
-              <li class="list-link"><a href="https://othman4dev.github.io/classRDP/refund">Refund Policy</a></li>
+              <li class="list-link"><a href="https://docs.classrdp.com/refund">Refund Policy</a></li>
               <li class="list-link"><a href="/contact.php">Contact Us</a></li>
-              <li class="list-link"><a href="https://othman4dev.github.io/classRDP/terms.html">Terms of Service</a></li>
-              <li class="list-link"><a href="https://othman4dev.github.io/classRDP/privacy.html">Privacy Policy</a></li>
-              <li class="list-link"><a href="https://othman4dev.github.io/classRDP/about.html">About Us</a></li>
+              <li class="list-link"><a href="https://docs.classrdp.com/terms">Terms of Service</a></li>
+              <li class="list-link"><a href="https://docs.classrdp.com/privacy">Privacy Policy</a></li>
+              <li class="list-link"><a href="https://docs.classrdp.com/about">About Us</a></li>
             </ul>
             <!-- footer-list -->
             <ul class="footer-list list-unstyled">

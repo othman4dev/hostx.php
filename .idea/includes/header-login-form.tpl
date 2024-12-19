@@ -45,7 +45,7 @@
               <!-- submit-btn -->
               <button type="submit" class="theme-btn --fill-success shadow-off w-100 font-500 mb-4 mt-1">Register</button>
               <!-- form-comment -->
-              <div class="form-comment mt-2">By signing up, you agree to the <a href="https://othman4dev.github.io/classRDP/terms.html">Terms of Service</a>.</div>
+              <div class="form-comment mt-2">By signing up, you agree to the <a href="https://docs.classrdp.com/terms">Terms of Service</a>.</div>
             </form>
           </div>
         </div>
