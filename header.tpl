@@ -7,6 +7,7 @@
   <meta name="description" content="ClassRDP offers reliable VPS and RDP hosting solutions tailored for your needs. Secure and affordable hosting services with excellent support.">
   <meta name="keywords" content="VPS, RDP, Hosting, Windows, Linux, Dedicated Servers, Shared Hosting, Web Hosting, Domain Registration, SSL Certificates, ClassRDP">
   <meta name="author" content="ClassRDP">
+  <meta name="robots" content="noindex">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
   <title>{if $kbarticle.title}{$kbarticle.title} - {/if}{$companyname} - {$pagetitle}</title>
   {include file="$template/includes/head.tpl"}
