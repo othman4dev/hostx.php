@@ -5,7 +5,7 @@
   <meta charset="{$charset}" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-  <title>{if $kbarticle.title}{$kbarticle.title} - {/if}{$pagetitle} - {$companyname}</title>
+  <title>{if $kbarticle.title}{$kbarticle.title} - {/if}{$companyname} - Reliable VPS & RDP Hosting Solutions - {$pagetitle}</title>
   {include file="$template/includes/head.tpl"}
   {$headoutput}
 </head>
