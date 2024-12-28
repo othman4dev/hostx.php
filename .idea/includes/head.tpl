@@ -1,3 +1,8 @@
+<!-- Meta Tags -->
+<meta name="description" content="ClassRDP offers reliable VPS and RDP hosting solutions tailored for your needs. Secure and affordable hosting services with excellent support.">
+<meta name="keywords" content="VPS, RDP, Hosting, Windows, Linux, Dedicated Servers, Shared Hosting, Web Hosting, Domain Registration, SSL Certificates, ClassRDP">
+<meta name="author" content="ClassRDP">
+
 <!-- Styling -->
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
 <link href="{assetPath file='all.min.css'}?v={$versionHash}" rel="stylesheet">
