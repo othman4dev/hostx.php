@@ -23,5 +23,5 @@
 <script src="{assetPath file='scripts.js'}?v={$versionHash}"></script>
 
 {if $templatefile == "viewticket" && !$loggedin}
-  <meta name="robots" content="noindex" />
+  <meta name="robots" content="index, follow">
 {/if}
