@@ -19,7 +19,7 @@
           <div class="footer-list-group">
             <div style="width:40%; display:flex;flex-direction:column;" >
               <div class="icon" style="width:150px;height:100px;background-color:#1a1b2e;display:flex;align-items:center;justify-content:center;">
-                (Logo Here)
+                <img src="{$WEB_ROOT}/templates/hostx_whmcs/images/icons/CLASSRDP.png" style="height:50px"/>
               </div>
               <p style="margin-top: 20px;margin-bottom: 20px;">
                {$companyname} offers anonymous, secure, and reliable hosting for all your needs.
